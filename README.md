@@ -96,7 +96,7 @@ Estou em constante aprendizado, evoluindo minhas habilidades para alcançar meu 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Sousa89&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Sousa89&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=0" 
   />
 
 </p>
